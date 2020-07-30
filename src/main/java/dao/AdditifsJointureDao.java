@@ -26,7 +26,6 @@ public class AdditifsJointureDao implements AdditifsDao {
 	public Connection getConnection() {
 		// recupere fichier properties
 		ResourceBundle db = ResourceBundle.getBundle("database");
-
 		try {
 			connection = getConnection();
 

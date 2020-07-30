@@ -4,7 +4,6 @@ import java.util.List;
 
 import objet.Allergenes;
 
-
 public interface AllergenesDao {
 
 	List<Allergenes> extraire();

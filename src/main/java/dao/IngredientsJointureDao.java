@@ -16,7 +16,6 @@ public class IngredientsJointureDao implements IngredientsDao {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
 		IngredientsJointureDao ing = new IngredientsJointureDao();
 		List<Ingredients> listeIng = ing.extraire();
 

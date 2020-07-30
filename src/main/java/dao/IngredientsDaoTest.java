@@ -19,7 +19,6 @@ public class IngredientsDaoTest implements IngredientsDao {
 
 	}
 
-
 	public List<Ingredients> extraire() {
 		Connection connection = null;
 		List<Ingredients> listeIng = new ArrayList<Ingredients>();

@@ -17,7 +17,6 @@ public class AllergenesJointureDao implements AllergenesDao{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
 		AllergenesJointureDao all = new AllergenesJointureDao();
 		List<Allergenes> listeAll = all.extraire();
 

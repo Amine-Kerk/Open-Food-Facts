@@ -5,7 +5,6 @@ import java.util.List;
 import objet.Marques;
 
 public interface MarquesDao {
-
 	List<Marques> extraire();
 
 	void insert(Marques marques);

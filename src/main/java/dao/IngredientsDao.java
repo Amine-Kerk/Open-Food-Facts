@@ -4,7 +4,6 @@ import java.util.List;
 
 import objet.Ingredients;
 
-
 public interface IngredientsDao {
 
 	List<Ingredients> extraire();

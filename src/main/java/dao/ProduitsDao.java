@@ -7,7 +7,6 @@ import java.util.List;
 import objet.Produits;
 
 public interface ProduitsDao {
-
 	List<Produits> extraire();
 	void insert(Produits produits);
 

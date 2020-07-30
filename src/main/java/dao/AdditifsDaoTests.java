@@ -15,7 +15,6 @@ public class AllergenesDaoTest implements AllergenesDao{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
 	}
 
 	public List<Allergenes> extraire() {

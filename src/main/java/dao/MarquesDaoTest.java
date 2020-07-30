@@ -13,7 +13,6 @@ import objet.Ingredients;
 import objet.Marques;
 
 public class MarquesDaoTest implements MarquesDao {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
